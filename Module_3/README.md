@@ -17,7 +17,7 @@ In this project all the mentioned below requirement should be there in this proj
 ### Executing program
 
 * Visit https://remix.ethereum.org
-* Upload AvaToken.sol using the upload files button above the folder named contracts
+* Upload VikashToken.sol using the upload files button above the folder named contracts
 * Compile VikashToken.sol in the Solidity compiler tab located on the left side of the screen. It is beside the Search in files button
 * Click Deploy and run transactions button located below the Solidity compiler button on the left side of the screen.
 * Under Deploy and run transactions tab, select AvaToken.sol contract, input the initial supply and click Deploy
