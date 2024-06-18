@@ -8,7 +8,8 @@ The `RentalSystem` smart contract is designed to manage rental rates for bikes a
 ### Executing program
 To run this program, you can use Remix, an online Solidity IDE. To get started, go to the Remix website at https://remix.ethereum.org/.
 
-![image](https://github.com/vikash-kumar-mahto/ETH-AVAX-PROOF-Intermediate/assets/93486699/298c73dd-300a-4ec1-95ab-5330196ce17c)
+![image](https://github.com/vikash-kumar-mahto/ETH-AVAX-PROOF-Intermediate/assets/93486699/020bc071-e003-4694-a527-72849f22bc6c)
+
 
 To compile the code,click on the "Solidity Compiler" tab in the left-hand sidebar. Make sure the "Compiler" option is set to 0.8.17 (or another compatible version), and then click on the "Compile RentalSystem.sol" button.
 
